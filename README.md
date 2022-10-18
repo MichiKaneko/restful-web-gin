@@ -1,4 +1,4 @@
-# To run Service
+# To run service
 ```
 go run .
 ```
